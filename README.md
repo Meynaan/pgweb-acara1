@@ -6,7 +6,7 @@ Nama : Meyna Anjar Nilawati
 
 NIM : 22/494861/SV/20925
 
-Kelas : PGWEB A
+Kelas : PemrogramanGWEB A
 
 Avatar :
 
